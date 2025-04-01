@@ -58,6 +58,8 @@ A stylish **Digital Clock** built using **HTML, CSS, JavaScript**, featuring a *
 
 ---
 
+category:- "Mini Project"
+
 ## 📜 License
 
 This project is licensed under the **MIT License**.
