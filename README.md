@@ -13,8 +13,8 @@ A stylish **Digital Clock** built using **HTML, CSS, JavaScript**, featuring a *
 - 📱 **Responsive Design** – Works on all devices (mobile, tablet, desktop).
 
 ---
-
-## Demo ## ![On Github](https://praveenkr398.github.io/DigitalClock)
+### 🚀 Live Demo: [Weather App](https://praveenkr398.github.io/DigitalClock/)
+### 💻 Source Code: [GitHub Repository](https://github.com/Praveenkr398/DigitalClock)
 
 ## 📸 Screenshots
 ![Digital Clock Screenshot](https://github.com/user-attachments/assets/03f1dad0-4763-4604-95c4-339babd1ccf9)
