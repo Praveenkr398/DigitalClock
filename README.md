@@ -57,8 +57,7 @@ A stylish **Digital Clock** built using **HTML, CSS, JavaScript**, featuring a *
 - 🌎 **Time Zone Support** – Display different time zones dynamically.
 
 ---
-
-Category:- "Mini Project"
+Category:- "Mini Project, HTML, CSS, JavaScrpit"
 
 ## 📜 License
 
