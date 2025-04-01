@@ -14,11 +14,11 @@ A stylish **Digital Clock** built using **HTML, CSS, JavaScript**, featuring a *
 
 ---
 
+## Demo ## ![On Github](https://praveenkr398.github.io/DigitalClock)
+
 ## 📸 Screenshots
+![Digital Clock Screenshot](https://github.com/user-attachments/assets/03f1dad0-4763-4604-95c4-339babd1ccf9)
 
-![Digital Clock Screenshot](https://via.placeholder.com/800x400.png?text=Digital+Clock+Preview)
-
----
 
 ## 🛠️ Technologies Used
 
