@@ -58,7 +58,7 @@ A stylish **Digital Clock** built using **HTML, CSS, JavaScript**, featuring a *
 
 ---
 
-category:- "Mini Project"
+Category:- "Mini Project"
 
 ## 📜 License
 
